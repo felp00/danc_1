@@ -7,7 +7,7 @@ output: html_document
   
   # **What is a function?**
   
-  A function is a reusable group of instructions that takes some arguments, does computations with them, or manipulates them in some way and then returns an output. Functions in programming are very similar to functions in mathematics. Think back to middle school in high-school. We all learned the equation of a line as $f(x)=mx+b$. This is a function that takes an input ($x$) and returns an output ($mx+b$).
+A function is a reusable group of instructions that takes some arguments, does computations with them, or manipulates them in some way and then returns an output. Functions in programming are very similar to functions in mathematics. Think back to middle school in high-school. We all learned the equation of a line as $f(x)=mx+b$. This is a function that takes an input ($x$) and returns an output ($mx+b$).
 
 We have already use a *lot* of functions in this class. For example, the length function.
 
